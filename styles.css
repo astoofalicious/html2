@@ -51,9 +51,10 @@ p {
 
 .content {
   max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+  margin: 0 auto;   /* centers the whole block */
+  padding: 0 20px;  /* adds side padding */
 }
+
 
 /* --- Images --- */
 
@@ -64,3 +65,4 @@ img {
   margin: 20px auto;
   border-radius: 6px;
 }
+ 
